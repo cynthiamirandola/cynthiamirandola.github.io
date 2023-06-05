@@ -340,8 +340,8 @@ p{
   text-transform: uppercase;
 }
 
-#projects .project-info h3{
-  font-size: 1.2rem;
+#projects .project-info h4{
+  font-size: 1.5rem;
   color: #B1D4E0;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -440,7 +440,14 @@ p{
   text-transform: uppercase;
 }
 
-#work .work-item h3{
+#work .work-item h2{
+  font-size: 2rem;
+  color: white;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+#work .work-item h4{
   font-size: 1.5rem;
   color: #B1D4E0;
   margin-bottom: 10px;
